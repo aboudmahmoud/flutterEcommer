@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992306594972",
+    "project_id": "ecommers-2e184",
+    "storage_bucket": "ecommers-2e184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992306594972:android:68159b0a4cfc558cec9959",
+        "android_client_info": {
+          "package_name": "com.example.aboud.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992306594972-013d6hlfps31kff9rrlrs900rg85lsgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDe5N7UVHpwhyKklA-8VgY6wZSYgQBnSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992306594972-013d6hlfps31kff9rrlrs900rg85lsgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
